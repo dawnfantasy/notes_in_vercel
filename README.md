@@ -1,3 +1,3 @@
-# linked-blog-starter-md
-You may access notes from [note.myfantasy.org](note.myfantasy.org).
+# Notes
+You may access my notes from [note.myfantasy.org](https://notes.myfantasy.org).
 
